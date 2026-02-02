@@ -15,7 +15,7 @@ in banking and fintech companies.
 
 ## Personal Project
 
-### 🧾 BillingPoint – Personal Project
+### [🧾 BillingPoint]('https://client-billing-pos.mikeonlinemx.workers.dev')
 
 Role: Software Engineer / Product Owner
 Domain: Billing · Invoicing · Business Software

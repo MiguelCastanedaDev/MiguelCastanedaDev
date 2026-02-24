@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Miguel Castañeda
-Software Engineer | Frontend-focused | Payments & Banking
+Software Engineer | Frontend-focused | Payments & Banking | Sometimes a work on backend side
 
 ## 🏢 Enterprise Experience
 
